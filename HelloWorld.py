@@ -1,12 +1,3 @@
-# Login system
-usrnm = input("Enter your username : ")
-print("Username : ", usrnm)
-paswd = input("Enter your password : ")
-print("Password : ", paswd)
-if usrnm == "admin" and paswd == "1234":
-    print("Login successful")
-else:
-    print("Invalid username or password")
-
+print("Hello World...!!!")
 
 
