@@ -1,0 +1,8 @@
+# Take a input from user and write a programming to check user is elligible to vote or not
+
+Age = input("Enter Age : ")
+print("Your Age is : ", Age)
+if age >= 18:
+    print("You are eligible to vote")
+else:
+    print("You are not eligible to vote")
