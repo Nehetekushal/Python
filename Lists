@@ -1,0 +1,5 @@
+L = ["Banana", "Apple", "Cherry"]
+L[0] = "Orange"
+print(L)
+
+print(L[0:2])
