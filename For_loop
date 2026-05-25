@@ -1,0 +1,21 @@
+#for i in range (5):
+    #print(i)
+
+#loop with Strings
+#name = "Kushal"
+#for i in name:
+    #print(i)
+
+#loop with Lists
+fruits = ["Cherry", "Apple", "Banana", "Grapes", "Mango"]
+for fruit in fruits:
+    print(fruit)
+
+ages = [12, 15, 18, 21, 24]
+for age in ages:
+    print(age)
+
+users = ["Ram", "Shyam", "Hari"]
+for user in (users):
+    print("Welcome ", user) 
+
