@@ -1,4 +1,5 @@
-day = input("Enter a day")
+day = input("Enter a day : ")
+print(type(day))
 print("You entered :" , day)
 if day == "1":
     print("Monday")
